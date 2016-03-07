@@ -69,7 +69,6 @@ Notices
 
 Calculated by correcting 200000 sequences each time.
 
-::
 
   Memory consumtion of data compression and loading into memory = amount of original data* 0.25 (i.e. the amount of human data is 160G, then memory consumption required is 40G)
 
