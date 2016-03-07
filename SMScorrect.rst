@@ -55,7 +55,6 @@ Line 2: The corrected sequence of this read.
 
 Here is an example:
 
-::
 
   >6_25_127
 
